@@ -23,6 +23,11 @@ This project was generated with the [Angular Full-Stack Generator](https://githu
 
 Run `gulp build` for building and `gulp serve` for preview.
 
-## Testing
+## Main Content
 
-Running `npm test` will run the unit tests with karma.
+the main changes for get/add/edit/remove of customer is located at below path
+
+\client\app\main
+\server\api\customer
+
+
